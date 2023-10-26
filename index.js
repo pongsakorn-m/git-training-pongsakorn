@@ -3,5 +3,6 @@ function feature1() {
 }
 
 function feature2() {
+    // comment from B
     alert('from feature 2.');
 }
